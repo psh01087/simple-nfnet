@@ -5,7 +5,7 @@ This repository contains **a simple PyTorch code for Normalizer-Free Network (NF
 - Andrew Brock et al, ["Characterizing signal propagation to close the performance gap in unnormalized ResNets,"](https://arxiv.org/abs/2102.06171) ICLR 2021.
 - Andrew Brock et al, ["High-Performance Large-Scale Image Recognition Without Normalization"](https://arxiv.org/abs/2102.06171), Arxiv
 
-I implemented this code by referring [benjs's implementation code](ttps://github.com/benjs/nfnets_pytorch). 
+I implemented this code by referring [benjs's implementation code](https://github.com/benjs/nfnets_pytorch). 
 This code is for train NFNet for **CIFAR-10** dataset.
 
 

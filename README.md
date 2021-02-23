@@ -6,7 +6,7 @@ This repository contains **a simple PyTorch code for Normalizer-Free Network (NF
 - Andrew Brock et al, ["High-Performance Large-Scale Image Recognition Without Normalization"](https://arxiv.org/abs/2102.06171), Arxiv
 
 I implemented this code by referring [benjs's implementation code](https://github.com/benjs/nfnets_pytorch). 
-This code is for train NFNet for **CIFAR-10** dataset.
+This code is for training NFNet for **CIFAR-10** dataset.
 
 
 ## Dependency

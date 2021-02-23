@@ -28,7 +28,7 @@ If you want to train the model using other hyperparameters, please check argpars
 
 ## TODO
 
-[ ] Report Experimental results. (Accuracy for CIFAR-10)
+- [ ] Report Experimental results. (Accuracy for CIFAR-10)
 
 
 ## Acknowledgements

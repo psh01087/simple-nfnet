@@ -36,7 +36,7 @@ class VPReLU(nn.Module):
 
 activations_dict = {
     'gelu': VPGELU(),
-    'relu': VPReLU(inplace=True)
+    'relu': VPReLU()
 }
 
 class NFNet(nn.Module):
